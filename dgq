@@ -1,0 +1,29 @@
+[33mcommit 9bcaa117735af08b3795884973113eaba3bcf806[m[33m ([m[1;36mHEAD -> [m[1;32mnew-features[m[33m)[m
+Author: Kyrylo <bereznov.kyrylo@mail.ru>
+Date:   Sun May 7 18:55:49 2023 +0200
+
+    delete src folder
+
+[33mcommit f4418df53a87282a54ddcefffd29ccd4a91649c8[m
+Author: Kyrylo <bereznov.kyrylo@mail.ru>
+Date:   Sun May 7 18:53:33 2023 +0200
+
+    save new branch
+
+[33mcommit 2119993b088769deb3cbb4851766f6f44d67f321[m[33m ([m[1;32mmain[m[33m)[m
+Author: Kyrylo <bereznov.kyrylo@mail.ru>
+Date:   Sun May 7 18:31:04 2023 +0200
+
+    add js folder
+
+[33mcommit ae1c0af341542aedddfe05e1150ad7ec198bb273[m
+Author: Kyrylo <bereznov.kyrylo@mail.ru>
+Date:   Sat May 6 20:59:48 2023 +0200
+
+    Second commit
+
+[33mcommit 08d78f1f5f8fb8e4712fd1ff91320b64e40218eb[m
+Author: Kyrylo <bereznov.kyrylo@mail.ru>
+Date:   Sat May 6 20:49:14 2023 +0200
+
+    add index.html and styles
